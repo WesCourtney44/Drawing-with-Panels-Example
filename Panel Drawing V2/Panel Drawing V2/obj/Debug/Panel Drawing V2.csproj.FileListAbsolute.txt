@@ -1,0 +1,12 @@
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\bin\Debug\Panel Drawing V2.exe.config
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.csprojResolveAssemblyReference.cache
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel_Drawing_V2.Form1.resources
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel_Drawing_V2.Properties.Resources.resources
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.csproj.GenerateResource.Cache
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\bin\Debug\Panel Drawing V2.exe
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\bin\Debug\Panel Drawing V2.pdb
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.exe
+C:\Users\zinktrita\Documents\Visual Studio 2015\Projects\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.pdb
+C:\Users\zinktrita\Desktop\Panel Drawing V2\Panel Drawing V2\bin\Debug\Panel Drawing V2.exe.config
+C:\Users\zinktrita\Desktop\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.exe
+C:\Users\zinktrita\Desktop\Panel Drawing V2\Panel Drawing V2\obj\Debug\Panel Drawing V2.pdb
